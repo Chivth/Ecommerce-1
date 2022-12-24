@@ -5,7 +5,6 @@ import { SHOW_POPUP, HIDE_POPUP } from "./toggle";
 const statePropsProduct = (state) => ({
   SHOW_POPUP: state.SHOW_POPUP,
   HIDE_POPUP: state.HIDE_POPUP,
-
 });
 
 const setStatePropsProduct = (dispatch) => ({
